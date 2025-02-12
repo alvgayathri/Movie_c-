@@ -20,24 +20,10 @@ The **Movie Collection System** is a C++ console-based project that allows users
 - **Main Function:** Provides a menu-based interface for the user to interact with the system.  
 
 ## Sample Output:
-```
-Movie Collection Menu:
-1. Add Movie
-2. Display Movies
-3. Search Movie
-4. Exit
-Enter your choice: 1
-Enter Movie Title: Interstellar
-Enter Genre: Sci-Fi
-Enter Release Year: 2014
-Movie added successfully!
 
-Movie Collection Menu:
-1. Add Movie
-2. Display Movies
-3. Search Movie
-4. Exit
-Enter your choice: 2
-Movies in the Collection:
-Title: Interstellar, Genre: Sci-Fi, Year: 2014
-```
+![WhatsApp Image 2025-02-12 at 12 31 37_1598e906](https://github.com/user-attachments/assets/7cd87fca-627f-414c-978d-0b6bc7d3e521)
+
+![WhatsApp Image 2025-02-12 at 12 32 17_4d5ea121](https://github.com/user-attachments/assets/b7b7e540-0d79-40c9-a957-344f1a023eaa)
+
+
+
